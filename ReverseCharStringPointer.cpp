@@ -7,7 +7,7 @@ void reverse_str(char * ptr);
 
 int main() {
 	char string[] = "Hello";
-	reverse(string);
+	reverse_str(string);
 	cout << string <<endl;
 }
 
